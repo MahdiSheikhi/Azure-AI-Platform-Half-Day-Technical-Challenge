@@ -1,0 +1,1 @@
+# Azure-AI-Platform-Half-Day-Technical-Challenge
